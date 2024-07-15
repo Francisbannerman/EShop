@@ -1,0 +1,12 @@
+/Users/macbookpro/RiderProjects/EShop/EShop.Infrastructure/obj/Debug/net8.0/EShop.Infrastructure.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/EShop/EShop.Infrastructure/obj/Debug/net8.0/EShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RiderProjects/EShop/EShop.Infrastructure/obj/Debug/net8.0/EShop.Infrastructure.AssemblyInfoInputs.cache
+/Users/macbookpro/RiderProjects/EShop/EShop.Infrastructure/obj/Debug/net8.0/EShop.Infrastructure.AssemblyInfo.cs
+/Users/macbookpro/RiderProjects/EShop/EShop.Infrastructure/obj/Debug/net8.0/EShop.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/EShop/EShop.Infrastructure/bin/Debug/net8.0/EShop.Infrastructure.deps.json
+/Users/macbookpro/RiderProjects/EShop/EShop.Infrastructure/bin/Debug/net8.0/EShop.Infrastructure.dll
+/Users/macbookpro/RiderProjects/EShop/EShop.Infrastructure/bin/Debug/net8.0/EShop.Infrastructure.pdb
+/Users/macbookpro/RiderProjects/EShop/EShop.Infrastructure/obj/Debug/net8.0/EShop.Infrastructure.dll
+/Users/macbookpro/RiderProjects/EShop/EShop.Infrastructure/obj/Debug/net8.0/refint/EShop.Infrastructure.dll
+/Users/macbookpro/RiderProjects/EShop/EShop.Infrastructure/obj/Debug/net8.0/EShop.Infrastructure.pdb
+/Users/macbookpro/RiderProjects/EShop/EShop.Infrastructure/obj/Debug/net8.0/ref/EShop.Infrastructure.dll

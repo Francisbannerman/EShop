@@ -1,0 +1,15 @@
+/Users/macbookpro/RiderProjects/EShop/EShop.Product.DataProvider/bin/Debug/net8.0/EShop.Product.DataProvider.deps.json
+/Users/macbookpro/RiderProjects/EShop/EShop.Product.DataProvider/bin/Debug/net8.0/EShop.Product.DataProvider.dll
+/Users/macbookpro/RiderProjects/EShop/EShop.Product.DataProvider/bin/Debug/net8.0/EShop.Product.DataProvider.pdb
+/Users/macbookpro/RiderProjects/EShop/EShop.Product.DataProvider/bin/Debug/net8.0/EShop.Infrastructure.dll
+/Users/macbookpro/RiderProjects/EShop/EShop.Product.DataProvider/bin/Debug/net8.0/EShop.Infrastructure.pdb
+/Users/macbookpro/RiderProjects/EShop/EShop.Product.DataProvider/obj/Debug/net8.0/EShop.Product.DataProvider.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/EShop/EShop.Product.DataProvider/obj/Debug/net8.0/EShop.Product.DataProvider.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RiderProjects/EShop/EShop.Product.DataProvider/obj/Debug/net8.0/EShop.Product.DataProvider.AssemblyInfoInputs.cache
+/Users/macbookpro/RiderProjects/EShop/EShop.Product.DataProvider/obj/Debug/net8.0/EShop.Product.DataProvider.AssemblyInfo.cs
+/Users/macbookpro/RiderProjects/EShop/EShop.Product.DataProvider/obj/Debug/net8.0/EShop.Product.DataProvider.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/EShop/EShop.Product.DataProvider/obj/Debug/net8.0/EShop.Pr.4B4DF835.Up2Date
+/Users/macbookpro/RiderProjects/EShop/EShop.Product.DataProvider/obj/Debug/net8.0/EShop.Product.DataProvider.dll
+/Users/macbookpro/RiderProjects/EShop/EShop.Product.DataProvider/obj/Debug/net8.0/refint/EShop.Product.DataProvider.dll
+/Users/macbookpro/RiderProjects/EShop/EShop.Product.DataProvider/obj/Debug/net8.0/EShop.Product.DataProvider.pdb
+/Users/macbookpro/RiderProjects/EShop/EShop.Product.DataProvider/obj/Debug/net8.0/ref/EShop.Product.DataProvider.dll

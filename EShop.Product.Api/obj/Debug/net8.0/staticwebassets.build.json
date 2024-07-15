@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "JOBpzxGdo4ck4GIGVuDD/aPgdZNxTdjAfCkvLuxFIQs=",
+  "Source": "EShop.Product.Api",
+  "BasePath": "_content/EShop.Product.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/macbookpro/RiderProjects/EShop/EShop.Product.Query.Api/EShop.Product.Query.Api.csproj",
+      "Version": 2,
+      "Source": "EShop.Product.Query.Api",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@EShop.Wallet.Api_HostAddress = http://localhost:5098
+
+GET {{EShop.Wallet.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
